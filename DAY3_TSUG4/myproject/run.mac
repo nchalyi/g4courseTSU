@@ -1,0 +1,9 @@
+/control/verbose 1
+/run/verbose 1
+/tracking/verbose 2
+# pre run init done
+/run/initialize
+/gun/energy 4 MeV
+/gun/particle e-
+# final step 
+/run/beamOn 10

@@ -1,0 +1,18 @@
+/vis/open OGL
+#
+/vis/drawVolume
+#
+/vis/geometry/set/visibility logic-Wolrld 0 false
+#
+/vis/viewer/set/style wireframe
+#
+/vis/scene/add/trajectories smooth
+#
+/vis/scene/add/scale   # Simple scale line
+/vis/scene/add/axes    # Simple axes: x=red, y=green, z=blue.
+#
+/vis/viewer/set/viewpointThetaPhi 120 150
+#
+/vis/scene/endOfEventAction accumulate 100
+#
+/vis/viewer/flush
