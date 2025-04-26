@@ -1,8 +1,0 @@
-/home/local1/g4courseTSU/DAY3_TSUG4/myproject/build/CMakeFiles/main.dir
-/home/local1/g4courseTSU/DAY3_TSUG4/myproject/build/CMakeFiles/myproject.dir
-/home/local1/g4courseTSU/DAY3_TSUG4/myproject/build/CMakeFiles/edit_cache.dir
-/home/local1/g4courseTSU/DAY3_TSUG4/myproject/build/CMakeFiles/rebuild_cache.dir
-/home/local1/g4courseTSU/DAY3_TSUG4/myproject/build/CMakeFiles/list_install_components.dir
-/home/local1/g4courseTSU/DAY3_TSUG4/myproject/build/CMakeFiles/install.dir
-/home/local1/g4courseTSU/DAY3_TSUG4/myproject/build/CMakeFiles/install/local.dir
-/home/local1/g4courseTSU/DAY3_TSUG4/myproject/build/CMakeFiles/install/strip.dir
