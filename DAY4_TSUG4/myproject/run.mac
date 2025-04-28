@@ -1,0 +1,10 @@
+/control/verbose 1
+/run/verbose 1
+/tracking/verbose 0
+# pre run init done
+/run/setCut 1.0 um
+/run/initialize
+/gun/energy 100 MeV
+/gun/particle e-
+# final step 
+/run/beamOn 100000
